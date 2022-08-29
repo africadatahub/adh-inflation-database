@@ -1,0 +1,2 @@
+./data/ethiopia/CPI_July_2022.pdf
+./data/ethiopia/CPI_June_2022.pdf

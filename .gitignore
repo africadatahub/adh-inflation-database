@@ -129,10 +129,10 @@ dmypy.json
 .pyre/
 
 # data
-data/ethiopia/
-data/kenya
-data/tanzania
-data/uganda
+#data/ethiopia/
+#data/kenya
+#data/tanzania
+#data/uganda
 #data/south_africa
 data/imf
 

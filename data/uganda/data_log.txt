@@ -1,0 +1,2 @@
+./data/uganda/CPI_Composite_July_2022.xlsx
+./data/uganda/CPI_Composite_June_2022.xlsx

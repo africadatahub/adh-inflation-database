@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+data/ethiopia/
+data/kenya
+data/tanzania
+data/uganda
+data/south_africa
+data/imf
+
+outputs/
